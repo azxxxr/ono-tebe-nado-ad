@@ -34,5 +34,5 @@
 Склонируйте репозиторий и откройте `index.html` в браузере:
 
 ```
-git clone https://github.com/bmelnikov02/ono-tebe-nado-ad.git
+git clone https://github.com/azxxxr/first-project.git
 ```
